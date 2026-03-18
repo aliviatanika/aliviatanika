@@ -1,11 +1,10 @@
-<img width="1024" height="572" alt="nafila" src="https://github.com/user-attachments/assets/78aa5eaa-13a0-4977-b529-0a4753bb6b5c" />
 <h1 align="center">Hi there, I'm Alivia! 👋
 
 
 
 <p align="center">
 
-  <em>Robotics Engineer at Archiva 🤖 | Code Enthusiast 💻 | Problem Solver 🧩</em>
+  <em>Robotics Engineer| Code Enthusiast 💻 | Problem Solver 🧩</em>
   
 </p>
 

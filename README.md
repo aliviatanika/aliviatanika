@@ -9,6 +9,7 @@
 <p>I like figuring out how things work, then building something with what I learn.</p>
 
 <a href="https://github.com/aliviatanika?tab=repositories"><img src="https://img.shields.io/badge/Explore_my_projects-18181B?style=flat-square&amp;logo=github&amp;logoColor=white" alt="Explore my projects" /></a>
+<a href="https://discord.com/users/830386489899614209"><img src="https://img.shields.io/badge/Chat_on_Discord-5865F2?style=flat-square&amp;logo=discord&amp;logoColor=white" alt="Chat with Fila on Discord" /></a>
 
 </div>
 

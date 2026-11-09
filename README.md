@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="./assets/banner.gif" alt="Nafila — Gamer / Robotics / AI. A meteor falls across a midnight mountain ridge." width="100%" />
+<img src="./assets/banner.gif" alt="Nafila — Gaming / Robotics / AI. A meteor falls across a midnight mountain ridge." width="100%" />
 
 <h2>Hi, I'm Fila 👋</h2>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;size=18&amp;pause=1400&amp;color=C4B5FD&amp;center=true&amp;vCenter=true&amp;width=440&amp;height=45&amp;lines=Robotics+%2F+AI+%2F+Gaming;Learning+by+making;Code.+Build.+Play.+Repeat." alt="Robotics / AI / Gaming. Learning by making. Code, build, play, repeat." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=500&amp;size=21&amp;duration=2800&amp;pause=1500&amp;color=B897ED&amp;center=true&amp;vCenter=true&amp;width=620&amp;height=52&amp;lines=%3E+turning+curiosity+into+code.%3B%3E+exploring+robotics+%2B+AI.%3B%3E+building+robots+%26+block+worlds." alt="Turning curiosity into code. Exploring robotics and AI. Building robots and block worlds." />
 
 <p>I like figuring out how things work, then building something with what I learn.</p>
 

@@ -2,11 +2,12 @@
 
 <img src="./assets/banner.gif" alt="Nafila — Gaming / Robotics / AI. A meteor falls across a midnight mountain ridge." width="100%" />
 
-<h2>Hi, I'm Fila 👋</h2>
+<p>
+  Tak perlu terang bagai mentari<br />
+  Cukup sedikit cahaya untuk menghangatkan hati
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=500&amp;size=21&amp;duration=2800&amp;pause=1500&amp;color=B897ED&amp;center=true&amp;vCenter=true&amp;width=620&amp;height=52&amp;lines=%3E+turning+curiosity+into+code.%3B%3E+exploring+robotics+%2B+AI.%3B%3E+building+robots+%26+block+worlds." alt="Turning curiosity into code. Exploring robotics and AI. Building robots and block worlds." />
-
-<p>I like figuring out how things work, then building something with what I learn.</p>
+<p><strong>Halo semuanya, namaku Fila!</strong></p>
 
 <a href="https://github.com/aliviatanika?tab=repositories"><img src="https://img.shields.io/badge/Explore_my_projects-18181B?style=flat-square&amp;logo=github&amp;logoColor=white" alt="Explore my projects" /></a>
 <a href="https://discord.com/users/830386489899614209"><img src="https://img.shields.io/badge/Chat_on_Discord-5865F2?style=flat-square&amp;logo=discord&amp;logoColor=white" alt="Chat with Fila on Discord" /></a>

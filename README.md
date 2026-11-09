@@ -49,7 +49,7 @@ This is where I keep my projects, experiments, and things I'm learning along the
 
 ### ⛏️ Off the keyboard
 
-<a href="https://www.minecraft.net/"><img src="https://img.shields.io/badge/Minecraft-3C8527?style=for-the-badge" alt="Minecraft" /></a>
+<a href="https://www.minecraft.net/"><img src="./assets/minecraft.svg" alt="Minecraft" /></a>
 
 Sometimes the project is a robot. Sometimes it's a house made of blocks.
 

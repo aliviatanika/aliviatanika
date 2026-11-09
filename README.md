@@ -13,18 +13,10 @@
 
 ---
 
-### About me
-
-I'm a robotics enthusiast who enjoys bringing code and machines together. I'm interested in robotics, AI, and automation — and I learn best by trying things out, getting stuck, and figuring out why.
-
-This is where I keep my projects, experiments, and things I'm learning along the way.
-
-### Quick facts
-
-- **Building** — robotics and automation projects.
-- **Exploring** — how software makes machines move and respond.
-- **Learning** — through research, problem-solving, and competitions.
-- **Off the keyboard** — probably on Minecraft. Still building things, apparently.
+<p align="center">
+  <img src="./assets/about.svg" width="390" alt="About me: I&#x27;m a robotics enthusiast who enjoys bringing code and machines together. I&#x27;m interested in robotics, AI, and automation — and I learn best by trying things out, getting stuck, and figuring out why. This is where I keep my projects, experiments, and things I&#x27;m learning along the way." />
+  <img src="./assets/facts.svg" width="390" alt="Quick facts: Building robotics and automation projects. Exploring how software makes machines move and respond. Learning through research, problem-solving, and competitions. Off the keyboard: probably on Minecraft. Still building things, apparently." />
+</p>
 
 ---
 

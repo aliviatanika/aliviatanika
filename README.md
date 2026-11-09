@@ -2,12 +2,7 @@
 
 <img src="./assets/banner.gif" alt="Nafila — Gaming / Robotics / AI. A meteor falls across a midnight mountain ridge." width="100%" />
 
-<p>
-  Tak perlu terang bagai mentari<br />
-  Cukup sedikit cahaya untuk menghangatkan hati
-</p>
-
-<p><strong>Halo semuanya, namaku Fila!</strong></p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=21&amp;duration=3300&amp;pause=1800&amp;color=B897ED&amp;center=true&amp;vCenter=true&amp;width=720&amp;height=58&amp;multiline=false&amp;repeat=true&amp;lines=Tak+perlu+terang+bagai+mentari%3BCukup+sedikit+cahaya+untuk+menghangatkan+hati%3BHalo+semuanya%2C+namaku+Fila%21" alt="Tak perlu terang bagai mentari · Cukup sedikit cahaya untuk menghangatkan hati · Halo semuanya, namaku Fila!" width="720" />
 
 <a href="https://github.com/aliviatanika?tab=repositories"><img src="https://img.shields.io/badge/Explore_my_projects-18181B?style=flat-square&amp;logo=github&amp;logoColor=white" alt="Explore my projects" /></a>
 <a href="https://discord.com/users/830386489899614209"><img src="https://img.shields.io/badge/Chat_on_Discord-5865F2?style=flat-square&amp;logo=discord&amp;logoColor=white" alt="Chat with Fila on Discord" /></a>

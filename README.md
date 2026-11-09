@@ -13,9 +13,34 @@
 
 ---
 
-<p align="center">
-  <img src="./assets/about.svg" width="390" alt="About me: I&#x27;m a robotics enthusiast who enjoys bringing code and machines together. I&#x27;m interested in robotics, AI, and automation — and I learn best by trying things out, getting stuck, and figuring out why. This is where I keep my projects, experiments, and things I&#x27;m learning along the way." />
-  <img src="./assets/facts.svg" width="390" alt="Quick facts: Building robotics and automation projects. Exploring how software makes machines move and respond. Learning through research, problem-solving, and competitions. Off the keyboard: probably on Minecraft. Still building things, apparently." />
+### About me
+
+> **Bringing code and machines together.**
+>
+> I'm a robotics enthusiast interested in **robotics, AI, and automation**. I learn best by trying things out, getting stuck, and figuring out why.
+
+This is where I keep my **projects**, **experiments**, and things I'm learning along the way.
+
+### Quick facts
+
+<p>
+  <img src="https://img.shields.io/badge/Building-71518F?style=flat-square" alt="Building" />
+  &nbsp; Robotics and automation projects.
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Exploring-71518F?style=flat-square" alt="Exploring" />
+  &nbsp; How software makes machines move and respond.
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Learning-71518F?style=flat-square" alt="Learning" />
+  &nbsp; Through research, problem-solving, and competitions.
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Off_the_keyboard-4C425C?style=flat-square" alt="Off the keyboard" />
+  &nbsp; Probably on Minecraft. Still building things, apparently.
 </p>
 
 ---

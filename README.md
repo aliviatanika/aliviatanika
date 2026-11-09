@@ -31,14 +31,18 @@ This is where I keep my projects, experiments, and things I'm learning along the
 
 ---
 
-### 🛠️ Languages I work with
+### 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cs,cpp,py,rust,js&amp;theme=dark&amp;perline=5" alt="C#, C++, Python, Rust, and JavaScript" />
 </p>
 
 <p align="center">
-  <code>C#</code> · <code>C++</code> · <code>Python</code> · <code>Rust</code> · <code>JavaScript</code>
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge" alt="C#" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&amp;logo=cplusplus&amp;logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Rust-CE422B?style=for-the-badge&amp;logo=rust&amp;logoColor=white" alt="Rust" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black" alt="JavaScript" />
 </p>
 
 ---
